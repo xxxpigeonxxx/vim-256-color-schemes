@@ -65,7 +65,7 @@ hi SpecialComment              ctermfg=none   ctermbg=none   cterm=none
 hi SpecialKey                  ctermfg=239    ctermbg=none   cterm=none
 hi SpellBad                    ctermfg=124    ctermbg=236    cterm=underline
 hi SpellCap                    ctermfg=20     ctermbg=236    cterm=underline
-hi SpellLocal                  ctermfg=20     ctermbg=236    cterm=underline
+hi SpellLocal                  ctermfg=124    ctermbg=236    cterm=none
 hi SpellRare                   ctermfg=20     ctermbg=236    cterm=underline
 hi Statement                   ctermfg=250    ctermbg=none   cterm=none
 hi StatusLine                  ctermfg=240    ctermbg=222    cterm=reverse
